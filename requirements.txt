@@ -1,0 +1,30 @@
+# Deep Learning Framework
+tensorflow>=2.12.0
+keras>=2.12.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+
+# NLP Libraries
+nltk>=3.8.0
+gensim>=4.3.0
+
+# Word Embeddings
+# For FastText
+fasttext>=0.9.2
+
+# Utilities
+tqdm>=4.65.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.22.0
+notebook>=6.5.0
+
+# For downloading pretrained embeddings
+wget>=3.2
+requests>=2.28.0
